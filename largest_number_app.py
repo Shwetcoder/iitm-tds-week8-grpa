@@ -1,6 +1,4 @@
- pip install streamlit
-
-import streamlit as st
+ import streamlit as st
 
 def find_largest(a, b, c):
     return max(a, b, c)
